@@ -1,0 +1,15 @@
+[
+{
+  " modid " : " itemphysic " ,
+  " name " : " ItemPhysic " ,
+  " описание " : " " ,
+  " mcversion " : " $ {mcversion} " ,
+  " url " : " https://minecraft.curseforge.com/projects/itemphysic " ,
+  " updateUrl " : " " ,
+  " authorList " : [ " CreativeMD " ],
+  " кредиты " : " " ,
+  " logoFile " : " " ,
+  " скриншоты " : [],
+  " зависимости " : []
+}
+]
